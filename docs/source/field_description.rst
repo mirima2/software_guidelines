@@ -5,7 +5,7 @@
 
 ``datacite:description``
 
-1.1 type (O)
+1.1 type (M)
 ^^^^^^^^^^^^
 
 The type of the description (occurrences: 1)
