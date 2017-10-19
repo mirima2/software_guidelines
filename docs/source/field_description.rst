@@ -1,9 +1,9 @@
-.. _dc:description:
+.. _datacite:description:
 
 22. Description (R)
 ====================
 
-.. _dc:description_type:
+.. _datacite:description:
 
 1.1 type (O)
 ^^^^^^^^^^^^
