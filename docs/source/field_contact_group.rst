@@ -1,4 +1,4 @@
-.. _oas:contactPerson:
+.. _oas:contactGroup:
 
 4. Contact Group (O)
 ====================
