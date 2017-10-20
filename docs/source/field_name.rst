@@ -3,6 +3,8 @@
 5. Name (M)
 ============
 
+``datacite:title``
+
 A name given to the software.
 
 **Example**
@@ -10,4 +12,4 @@ A name given to the software.
 .. code-block:: xml
    :linenos:
 
-   <dc:title>Lucine</dc:title>
+   <title>Lucine</title>

@@ -14,7 +14,7 @@ OpenAIRE-Field                           Metadata Element
 :ref:`oas:contactPerson`                     datacite:contributor          
 :ref:`oas:contactGroup`                      datacite:contributor          
 :ref:`oas:name`                              datacite:title   
-:ref:`oas:repository`.                       datacite:publisher       
+:ref:`oas:repository`                        datacite:publisher       
 :ref:`oas:softwareType`                      datacite:resourceType         
 :ref:`datacite:subject`                      datacite:subject                   
 :ref:`oas:releaseDate`                       datacite:date
