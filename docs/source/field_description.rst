@@ -1,12 +1,12 @@
 .. _datacite:description:
 
-22. Description (R)
+20. Description (R)
 ====================
 
 ``datacite:description``
 
 1.1 type (M)
-^^^^^^^^^^^^
+-------------------
 
 The type of the description (occurrences: 1)
 
@@ -19,8 +19,8 @@ This element is used for a textual description of what the software does. The de
 .. code-block:: xml
    :linenos:
 
-   <datacite:description descriptionType="Abstract">
+   <description descriptionType="Abstract">
      Computation of Fast Fourier Transform 
-   </datacitec:description>
+   </description>
 
    

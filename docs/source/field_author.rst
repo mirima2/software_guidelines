@@ -1,13 +1,15 @@
-.. _datacite:author:
+.. _oas:author:
 
 2. Author (M)
 ==============
 
-The authors of the publication in priority order. May be a corporate/institutional or personal name.
+``datacite:creator``
+
+The authors of the software in priority order. May be a corporate/institutional or personal name.
 
 .. _datacite:creator_creatorName:
 
-2.1 creatorName (M)
+2.1 authorName (M)
 -------------------
 
 The name of the author.
@@ -61,25 +63,25 @@ The organizational or institutional affiliation of the creator.
 
 .. code-block:: xml
 
-  <datacite:creator>
-     <datacite:creatorName>Smit, J.H. (John Hubert) de</datacite:creatorName>
-  </datacite:creator>
+  <creator>
+     <creatorName>Smit, J.H. (John Hubert) de</creatorName>
+  </creator>
 
 When initials and first name are both available use this formatting:
 
 .. code-block:: xml
 
-  <datacite:creator>
-    <datacite:creatorName>Janssen, J. (John)</datacite:creatorName>
-  </datacite:creator>
+  <creator>
+    <creatorName>Janssen, J. (John)</creatorName>
+  </creator>
 
 Generational suffixes (Jr., Sr., etc.) should follow the surname. When in doubt, give the name as it appears, and do not invert. Omit titles (like “Dr”). For example: “Dr. John H. de Smit Jr.” becomes
 
 .. code-block:: xml
 
-  <datacite:creator>
-    <datacite:creatorName>Smit Jr., J.H. (John) de</datacite:creatorName>
-  </datacite:creator>
+  <creator>
+    <creatorName>Smit Jr., J.H. (John) de</creatorName>
+  </creator>
 
 In the case of an organization name which clearly includes an organizational hierarchy, list the parts of the hierarchy from largest to smallest, separated by full stops.
 
@@ -107,13 +109,7 @@ It is recommended to encode thesauri with an URI, for service providers to recog
     </nameIdentifier>
   </creator>
 
-In cases of lesser responsibility, other than authorship, use ``datacite:contributor``. If the nature of the responsibility is ambiguous, recommended best practice is to use ``dc:publisher`` for organizations, and ``datacite:creator`` for individuals.
-
-
-**Do Not Confuse With**
-
-* :ref:`datacite:contributor`
-* :ref:`dc:publisher`
+In cases of lesser responsibility, other than authorship, use ``datacite:contributor``. 
 
 **Example**
 
