@@ -1,5 +1,4 @@
 
-
 .. _oas:versionNumber:
 
 16. Version Number (R)
@@ -19,3 +18,4 @@ Associates a resource with a numeric pattern of the form major\_version.minor\_v
      1.0.3
    </version>
 
+   
