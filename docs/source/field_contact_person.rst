@@ -16,7 +16,7 @@ The type of the contributor (occurrences: 1).
 3.2 contributorName (M)
 -------------------
 
-The email of the contact person.
+The name of the contact person. Use inverted name, so the syntax will be the following: “surname”, “initials” (“first name”) “prefix”.
 
 
 3.3 givenName (R)
@@ -65,9 +65,7 @@ This element is used for providing information about the contact person for the 
    :linenos:
 
    <contributor contributorType="ContactPerson">
-     <contributorName>pippo@foo.com</contributorName>
-     <givenName>Name</givenName>
-     <familyName>Surname</familyName>
+     <contributorName>Doe, John</contributorName>
    </contributor>
 
    

@@ -1,6 +1,6 @@
 .. _datacite:subject:
 
-2. Subject (R)
+8. Subject (R)
 ==============
 
 ``datacite:subject``
