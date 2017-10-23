@@ -10,6 +10,10 @@
 URL of the web location from which the software can be directly downloaded 
 When the distribution location is specified the alternateIdentifierType attribute must be set to the OpenAIRE term DistributionLocation
 
+   Do Not Confuse With
+----------------------
+* :ref:`oas:landignPage`
+
 **Example**
 
 .. code-block:: xml
@@ -19,6 +23,3 @@ When the distribution location is specified the alternateIdentifierType attribut
    		http://my_distribution_location.eu
    </alternateIdentifier>
 
-   Do Not Confuse With
-----------------------
-* :ref:`oas:landignPage`
