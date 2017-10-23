@@ -10,9 +10,9 @@
 URL of the web location from which the software can be directly downloaded 
 When the distribution location is specified the alternateIdentifierType attribute must be set to the OpenAIRE term DistributionLocation
 
-   Do Not Confuse With
+Do Not Confuse With
 ----------------------
-* :ref:`oas:landignPage`
+* :ref:`oas:landingPage`
 
 **Example**
 

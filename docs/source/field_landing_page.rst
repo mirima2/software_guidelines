@@ -9,7 +9,7 @@
 URL to the web page where the software is described and can possibly be downloaded.
 When the landing page is specified the alternateIdentifierType attribute must be set to the OpenAIRE term LandingPage
 
-   Do Not Confuse With
+Do Not Confuse With
 ----------------------
 * :ref:`oas:distributionLocation`
 
