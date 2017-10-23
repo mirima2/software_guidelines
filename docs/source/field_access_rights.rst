@@ -1,6 +1,6 @@
 .. include:: replacements.rst
 
-.. _oas:accessRights:
+.. _oas:accessRights_darivedere:
 
 18. Access Rights (M)
 ---------------
