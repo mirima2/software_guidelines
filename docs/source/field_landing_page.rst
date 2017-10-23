@@ -1,4 +1,4 @@
-.. _oas:descriptionLanguage:
+.. _oas:landingPage:
 
 12. Landing page (R)
 ---------------------------
