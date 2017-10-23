@@ -1,6 +1,6 @@
 .. _oas:descriptionLanguage:
 
-9. Description language (O)
+10. Description language (O)
 ---------------------------
 ---------------------------
 

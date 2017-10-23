@@ -1,6 +1,6 @@
 .. _datacite:alternateIdentifier:
 
-10. Alternate identifier (O)
+11. Alternate identifier (O)
 ---------------------------
 ---------------------------
 
