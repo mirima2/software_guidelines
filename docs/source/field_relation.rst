@@ -8,7 +8,7 @@
 
 Identifiers of related resources. These must be globally unique identifiers .
 
-14.1 type (M)
+15.1 type (M)
 -------------------
 
 The type of the related identifier
@@ -34,17 +34,12 @@ The type of the related identifier
 * ``URN``
 
 
-14.2 relation (M)
+15.2 relation (M)
 ------------------
 
 Description of the relationship of the resource being registered (A) and the related resource (B)
 
 
-
-.. _d:relationtype:
-
-12.2 relationType (M)
----------------------
 
 *Controlled List Values:*
 
@@ -81,42 +76,9 @@ Description of the relationship of the resource being registered (A) and the rel
 .. note::
 	``IsDocumentedBy`` must be used with :ref:`oas:documentation`
 
-.. _d:relatedmetadatascheme:
+**Example**
 
-12.3 relatedMetadataScheme (O)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. code-block:: xml
+   :linenos:
 
-The name of the scheme (occurrences: 0-1).
-
-**Allowed values, examples, other constraints**
-
-Use only with this relation pair: (``HasMetadata``/``IsMetadataFor``).
-
-.. _d:relatedidentifier_schemuri:
-
-12.1 schemeURI (O)
-~~~~~~~~~~~~~~~~~~
-
-The URI of the relatedMetadataScheme (occurrences: 0-1).
-
-**Allowed values, examples, other constraints**
-
-Use only with this relation pair: (``HasMetadata``/``IsMetadataFor``).
-
-.. _d:relatedidentifier_schemeType:
-
-12.1 schemeType (O)
-~~~~~~~~~~~~~~~~~~~
-
-The type of the relatedMetadataScheme, linked with the schemeURI (occurrences: 0-1).
-
-**Allowed values, examples, other constraints**
-
-Use only with this relation pair: (``HasMetadata``/``IsMetadataFor``).
-
-Examples: ``XSD``, ``DDT``, ``Turtle``
-
-Example
-~~~~~~~
-
-.. include:: examples/relatedidentifier.rst
+   <relatedIdentifier relatedIdentifierType="DOI" relationType="IsCitedBy">10.110/...</relatedIdentifier>

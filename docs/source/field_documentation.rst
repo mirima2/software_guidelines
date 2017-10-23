@@ -13,6 +13,26 @@ A resource intended for end-users providing useful information regarding the com
 
 The type of the related identifier
 
+*Controlled List Values:*
+
+* ``ARK``
+* ``arXiv``
+* ``bibcode``
+* ``DOI``
+* ``EAN13``
+* ``EISSN``
+* ``Handle``
+* ``ISBN``
+* ``ISSN``
+* ``ISTC``
+* ``LISSN``
+* ``LSID``
+* ``PMID``
+* ``PURL``
+* ``UPC``
+* ``URL``
+* ``URN``
+
 14.2 relation (M)
 ------------------
 
