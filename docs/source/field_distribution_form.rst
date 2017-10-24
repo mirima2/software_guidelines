@@ -1,4 +1,4 @@
-.. oas:distributionForm:
+.. _oas:distributionForm:
 
 23. Distribution form (O)
 ====================
