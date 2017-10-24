@@ -1,6 +1,6 @@
 .. include:: replacements.rst
 
-.. _oas:accessRights_darivedere:
+.. _oas:accessRights:
 
 18. Access Rights (M)
 ---------------
@@ -51,7 +51,7 @@ http://creativecommons.org/licenses/by/3.0/de/deed.en
    * ``info:eu-repo/semantics/restrictedAccess``
    * ``info:eu-repo/semantics/openAccess``
 
-   This property may also be used to explicitly declare the license for the resource.
+   This property should not be used to explicitly declare the license for the resource, for this refer to section :ref:`licence`.
 
    Please refer to the section :ref:`accessrights` for a full example of how to declare access right and license information.
 
