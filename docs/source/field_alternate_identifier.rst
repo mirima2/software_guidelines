@@ -16,7 +16,7 @@ The type of the AlternateIdentifier (occurrences: 1).
 
 If AlternateIdentifier is used, alternateIdentifierType is mandatory. 
 
-E**Example**
+**Example**
 
 .. code-block:: xml
    :linenos:

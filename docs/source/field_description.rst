@@ -12,7 +12,7 @@ The type of the description (occurrences: 1)
 
 **Usage Instruction**
 
-This element is used for a textual description of what the software does. The descriptionType must be set to the datacite term "Abstract".
+This element is used for a textual description of what the software does. The descriptionType must be set to the DataCite term "Abstract".
 
 **Example**
 
