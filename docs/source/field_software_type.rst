@@ -5,7 +5,7 @@
 
 ``datacite:resourceType``
 
-Specifies the type of the resource being described. Free text.
+Specifies the type of the software being described. Free text.
 
 7.1 type (M)
 -------------------

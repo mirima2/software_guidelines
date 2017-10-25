@@ -28,7 +28,7 @@ Example: Creative Commons Attribution 3.0 Germany License
 
 .. _d:rightsuri:
 
-19.1 rightsURI (MA)
+19.1 rightsURI (M)
 -------------------
 
 The URI of the license (occurrences: 0-1).

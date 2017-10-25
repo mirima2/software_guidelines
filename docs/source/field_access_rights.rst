@@ -26,7 +26,7 @@ Provide a rights management statement for the resource or reference a service pr
 
 .. _d:rightsuri:
 
-18.1 rightsURI (MA)
+18.1 rightsURI (M)
 -------------------
 The URI of the license (occurrences: 0-1).
 

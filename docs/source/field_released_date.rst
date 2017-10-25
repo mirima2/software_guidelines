@@ -25,4 +25,4 @@ If Date is used, dateType is mandatory, and its value must be set to the DataCit
 .. code-block:: xml
    :linenos:
 
-   <date dateType=Issued>23-10-2017</date>
+   <date dateType="Issued">23-10-2017</date>

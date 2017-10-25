@@ -5,11 +5,11 @@
 
 ``datacite:title``
 
-A name given to the software.
+The name of the software.
 
 **Example**
 
 .. code-block:: xml
    :linenos:
 
-   <title>Lucine</title>
+   <title>Lucene</title>

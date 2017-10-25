@@ -6,7 +6,7 @@
 
 ``datacite:description``
 
-This element is used to specify which is the tool used for producing the software.
+This element is used to specify which is the tool/service that can execute the software.
 
 21.1 type (M)
 -------------------
@@ -23,7 +23,7 @@ Specifies the kind of information presented in the element (occurrences: 1)
    :linenos:
 
    <description descriptionType="TechnicalInfo">
-     R version 3.4.0
+     R Studio
    </description>
 
    

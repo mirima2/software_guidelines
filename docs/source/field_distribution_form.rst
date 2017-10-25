@@ -14,7 +14,7 @@ Specifies the kind of information presented in the element (occurrences: 1)
 
 **Usage Instruction**
 
-This element is used to specify the distribution form of the software. The descriptionType must be set to the OpenAIRE term "DistributionFOrm".
+This element is used to specify the distribution form of the software. The descriptionType must be set to the OpenAIRE term "DistributionForm".
 
 **Example**
 

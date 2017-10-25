@@ -6,7 +6,7 @@
 
 ``datacite:relatedIdentifier``
 
-A resource intended for end-users providing useful information regarding the componet usage/application, e.g. execution tips, faq's, help forums etc.
+A resource that provides useful information about the software to the end-users, such as execution tips, FAQs, help forums, etc.
 
 14.1 type (M)
 -------------------

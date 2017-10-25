@@ -6,7 +6,7 @@
 ``datacite:subject``
 
 From DataCite definition:
-Subject, keyword, classification code, or key phrase describing the resource.
+Subject, keyword, classification code, or key phrase describing the software.
 
 2.1 Subject Schema (O)
 -----------
@@ -17,4 +17,4 @@ The name of the subject schema or classification code or authority if one is use
 .. code-block:: xml
    :linenos:
 
-   <subject subjectSchema=ACM>Scripting languages</subject>
+   <subject subjectSchema="ACM">Scripting languages</subject>
