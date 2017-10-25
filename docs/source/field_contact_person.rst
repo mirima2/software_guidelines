@@ -38,13 +38,13 @@ Uniquely identifies an individual or legal entity, according to various schemes.
 
 
 3.5.1 nameIdentifierScheme (R)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 The name of the name identifier scheme.
 
 
 3.5.2 schemeURI (O)
-^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 The URI of the name identifier scheme.
 
@@ -57,7 +57,7 @@ The organizational or institutional affiliation of the contributor.
 
 **Usage Instruction**
 
-This element is used for providing information about the contact person for the software. The contributorType must be set to the datacite term "ContactPerson". The contributor name must be set to a valid email for the contact person. The information about the given name and family name for the contact person can be specified in the fields givenName and familyName
+This element is used for providing information about the contact person for the software. The contributorType must be set to the datacite term "ContactPerson". The information about the given name and family name for the contact person can be specified in the fields givenName and familyName
 
 **Example**
 

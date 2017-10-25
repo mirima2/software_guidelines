@@ -23,7 +23,7 @@ Specifies the kind of information presented in the element (occurrences: 1)
    :linenos:
 
    <description descriptionType="TechnicalInfo">
-     R Studio 
+     R version 3.4.0
    </description>
 
    

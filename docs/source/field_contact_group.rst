@@ -19,7 +19,25 @@ The type of the contributor (occurrences: 1).
 The name of the contact group.
 
 
-3.4 affiliation (O)
+3.3 nameIdentifier (R)
+----------------------
+
+Uniquely identifies an individual or legal entity, according to various schemes.
+
+
+3.3.1 nameIdentifierScheme (R)
+------------------------------
+
+The name of the name identifier scheme.
+
+
+3.3.2 schemeURI (O)
+------------------------------
+
+The URI of the name identifier scheme.
+
+
+3.3.3 affiliation (O)
 -------------------
 
 The organizational or institutional affiliation of the contributor.

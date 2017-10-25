@@ -30,7 +30,7 @@ OpenAIRE-Field                           Metadata Element
 :ref:`oas:licenseCondition`                  datacite:rights        
 :ref:`datacite:description`                  datacite:description        
 :ref:`oas:tool`                              datacite:description
-:ref:`oas:fundingReference`                  datacite:fundingReference
+:ref:`datacite:fundingReference`             datacite:fundingReference
 :ref:`oas:distributionForm`                  datacite:description
 ======================================== ============================= 
 
