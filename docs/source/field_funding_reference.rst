@@ -1,5 +1,4 @@
-
-.. _oas:fundingReference:
+.. _datacite:fundingReference:
 
 22. Funding Reference (R)
 ====================
