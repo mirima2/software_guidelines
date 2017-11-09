@@ -1,11 +1,11 @@
 .. _oas:repository:
 
-6. Repository (M)
+6. Repository (R)
 ====================
 
 ``datacite:publisher``
 
-A software repository is a storage location from which software can be retrieved.
+A software repository is an on-line source from which software can be retrieved.
 
 **Usage Instruction**
 
