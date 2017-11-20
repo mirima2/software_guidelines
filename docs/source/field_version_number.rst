@@ -1,7 +1,7 @@
 
 .. _oas:versionNumber:
 
-16. Version Number (R)
+17. Version Number (R)
 ----------------------------
 
 ``datacite:version``
