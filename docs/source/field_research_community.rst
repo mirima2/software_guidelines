@@ -1,6 +1,6 @@
 .. _oas:community:
 
-23. Research Community (O)
+24. Research Community (O)
 --------------------------
 --------------------------
 
