@@ -32,6 +32,7 @@ OpenAIRE-Field                           Metadata Element
 :ref:`oas:tool`                              datacite:description
 :ref:`datacite:fundingReference`             datacite:fundingReference
 :ref:`oas:distributionForm`                  datacite:description
+:ref:`oas:community`                         datacite:relatedIDentifier
 ======================================== ============================= 
 
 
