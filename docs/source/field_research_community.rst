@@ -1,6 +1,6 @@
 .. _oas:community:
 
-23. Community (O)
+23. Research Community (O)
 --------------------------
 --------------------------
 
@@ -15,7 +15,7 @@ Identifiers of the community for which the research product is of interest.
 15.1 type (M)
 -------------------
 
-The type of the related identifier is the new OpenAIRE type OAC (OpenAIRE community)
+The type of the related identifier is the new OpenAIRE type OpenAIRE
 
 15.2 relation (M)
 ------------------
@@ -27,6 +27,6 @@ Since we are talking about a community, the relationship mast be set to the Open
 .. code-block:: xml
    :linenos:
 
-   <relatedIdentifier relatedIdentifierType="AOC" relationType="IsRelevanTo">
+   <relatedIdentifier relatedIdentifierType="OpenAIRE" relationType="IsRelevanTo">
    		info:eu-repo/OAC/EGI
    </relatedIdentifier>
