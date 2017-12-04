@@ -33,12 +33,12 @@ The URI of the license (occurrences: 0-1).
 **Allowed values, examples, other constraints**
 
 
-   Use terms from the `info:eu-repo-Access-Terms vocabulary <http://purl.org/eu-repo/semantics/#info-eu-repo-AccessRights>`_. The values are:
+   Use terms from the `COAR access rights vocabulary <http://vocabularies.coar-repositories.org/documentation/access_rights/>`_. The values are:
 
-   * ``info:eu-repo/semantics/closedAccess``
-   * ``info:eu-repo/semantics/embargoedAccess``
-   * ``info:eu-repo/semantics/restrictedAccess``
-   * ``info:eu-repo/semantics/openAccess``
+   * ``http://purl.org/coar/access_right/c_14cb`` for metadata only access
+   * ``http://purl.org/coar/access_right/c_f1cf`` for embargoed access 
+   * ``http://purl.org/coar/access_right/c_16ec`` for restricted access
+   * ``http://purl.org/coar/access_right/c_abf2`` for open access
 
    
 
@@ -56,5 +56,5 @@ The URI of the license (occurrences: 0-1).
 .. code-block:: xml
    :linenos:
 
-   <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+   <dc:rights>http://purl.org/coar/access_right/c_abf2</dc:rights>
 

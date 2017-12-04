@@ -10,7 +10,7 @@ Identifiers of the community for which the research product is of interest.
 
 .. note::
 
-   These must be globally unique identifiers and must be expressed using the format: ``info:eu-repo/OAC/community_name/sub_community_name/...``
+   These must be globally unique identifiers and must be expressed using the format: ``ihttp://openaire/community/community_name/sub_community_name/...``
 
 15.1 type (M)
 -------------------
@@ -28,5 +28,5 @@ Since we are talking about a community, the relationship mast be set to the Open
    :linenos:
 
    <relatedIdentifier relatedIdentifierType="OpenAIRE" relationType="IsRelevanTo">
-   		info:eu-repo/OAC/EGI
+   		http://openaire/community/DH-CH/PARTHENOS
    </relatedIdentifier>
