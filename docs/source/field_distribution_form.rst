@@ -25,11 +25,3 @@ This element is used to specify the distribution form of the software. The descr
      sourceCode 
    </description>
 
-
-
- .. code-block:: xml
-   :linenos:
-
-   <description descriptionType="DistributionForm">
-     Source and executable code 
-   </description>  
