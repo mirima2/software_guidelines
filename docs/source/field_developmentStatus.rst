@@ -1,13 +1,13 @@
 .. _oas:developmentStatus:
 
-23. Distribution form (O)
+24. Distribution form (O)
 ====================
 
 ``datacite:description``
 
 Description of development status, e.g. Active, inactive, supsended. See `repostatus.org <http://www.repostatus.org/>`_ 
 
-23.1 type (M)
+24.1 type (M)
 -------------------
 
 Specifies the kind of information presented in the element (occurrences: 1)
