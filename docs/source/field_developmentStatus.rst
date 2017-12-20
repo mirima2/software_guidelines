@@ -1,6 +1,6 @@
 .. _oas:developmentStatus:
 
-24. Distribution form (O)
+24. Development status (O)
 ====================
 
 ``datacite:description``
