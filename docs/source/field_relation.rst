@@ -22,6 +22,7 @@ The type of the related identifier
 * ``EAN13``
 * ``EISSN``
 * ``Handle``
+* ``IGSN``
 * ``ISBN``
 * ``ISSN``
 * ``ISTC``

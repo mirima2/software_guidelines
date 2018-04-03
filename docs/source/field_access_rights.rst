@@ -21,14 +21,14 @@ Provide a rights management statement for the resource or reference a service pr
 
    *Mandatory* property in OpenAIRE instead of optional in DataCite.
 
-   OpenAIRE uses this property to explicit declare the access right of the resource via :ref:`d:rightsuri`. 
+   OpenAIRE uses this property to explicitly declare the access right of the resource via :ref:`d:rightsuri`. 
 
 
 .. _d:rightsuri:
 
 18.1 rightsURI (M)
 -------------------
-The URI of the license (occurrences: 0-1).
+The URI of the license (occurrences: 1).
 
 **Allowed values, examples, other constraints**
 
@@ -44,10 +44,7 @@ The URI of the license (occurrences: 0-1).
 
 .. note::
 
-   *Mandatory when applicable* property in OpenAIRE instead of optional in DataCite.
-
    This property should not be used to explicitly declare the license for the resource, for this refer to section :ref:`oas:licenceCondition`.
-
 
 
 **Examples**
