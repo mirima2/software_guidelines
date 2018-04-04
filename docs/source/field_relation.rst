@@ -49,6 +49,7 @@ Description of the relationship of the resource being registered (A) and the rel
 * ``IsSupplementedBy`` (indicates that B is a supplement to A)
 * ``IsMetadataFor`` (indicates additional metadata A for a resource B)
 * ``IsNewVersionOf`` (indicates A is a new edition of B, where the new edition has been modified or updated)
+* ``IsVersionOf`` (indicates that A is a version of B)
 * ``IsPreviousVersionOf`` (indicates A is a previous edition of B)
 * ``IsPartOf`` (indicates A is a portion of B;may be used for elements of a series)
 * ``HasPart`` (indicates A includes the part B)
