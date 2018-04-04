@@ -17,7 +17,7 @@ The release date of the software.
 
 The type of date (occurrences: 1).
 
-If Date is used, dateType is mandatory, and its value must be set to the DataCite term Issued or to the DataCite term Available.
+If Date is used, dateType is mandatory, and its value must be set to the DataCite term Issued.
 
 
 **Example**
