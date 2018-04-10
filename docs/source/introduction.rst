@@ -22,9 +22,11 @@ Exposure and visibility of content from a range of European repositories will be
 
 
 
-The Guidelines take inspiration from DataCite, on the side of citation metadata, from the `OpenMinTed SHARE-OMTD <https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html>`_ software guidelines, and from the `Codemeta initiative <https://github.com/codemeta/codemeta/blob/master/crosswalk.csv>`_ 
+The Guidelines take inspiration from DataCite, on the side of citation metadata, and aligns with the following initiatives on software description and citation:
 
-
+* `OpenMinTed SHARE-OMTD <https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html>`_ software guidelines, 
+* `Codemeta initiative <https://github.com/codemeta/codemeta/blob/master/crosswalk.csv>`_ 
+* `DOE CODE initiative <https://github.com/doecode/software-metadata>`_
 
 Acknowledgements & Contributors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -39,8 +41,24 @@ Acknowledgements & Contributors
 
 **Experts & Reviewers**
 
+OpenAIRE
+
 * Jochen Schirrwagen (Bielefeld University, Germany)
 * Claudio Atzori (CNR, Italy)
 * Lars Holm Nielsen (CERN, Switzerland) 
 * Leo Mack (JISC, UK)
 
+DOE CODE (U.S. Department of Energy, Office of Scientific and Technical Information - OSTI.gov)
+
+* Shelby Stooksbury (DOE project coordinator)
+* Lynn Davis
+* Carly Robinson
+* Lance Vowell
+
+Software Sustainability Institute (SSI)
+
+* Neil Chue Hong (SSI director)
+
+University of Manchester
+
+* Carole Goble
