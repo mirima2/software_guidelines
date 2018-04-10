@@ -42,24 +42,24 @@ Acknowledgements & Contributors
 
 **Experts & Reviewers**
 
-OpenAIRE
+*OpenAIRE*
 
 * Jochen Schirrwagen (Bielefeld University, Germany)
 * Claudio Atzori (CNR, Italy)
 * Lars Holm Nielsen (CERN, Switzerland) 
 * Leo Mack (JISC, UK)
 
-DOE CODE (U.S. Department of Energy, Office of Scientific and Technical Information - OSTI.gov)
+*DOE CODE* (U.S. Department of Energy, Office of Scientific and Technical Information - OSTI.gov)
 
 * Shelby Stooksbury (DOE project coordinator)
 * Lynn Davis
 * Carly Robinson
 * Lance Vowell
 
-Software Sustainability Institute (SSI)
+*Software Sustainability Institute* (SSI)
 
 * Neil Chue Hong (SSI director)
 
-University of Manchester
+*University of Manchester*
 
 * Carole Goble
