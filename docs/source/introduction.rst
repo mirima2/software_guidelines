@@ -20,13 +20,14 @@ By implementing the OpenAIRE Guidelines, software archive managers are facilitat
 
 Exposure and visibility of content from a range of European repositories will be significantly increased when a common and interoperable approach is taken as well as adhering to existing guidelines. OpenAIRE is happy to assist in adherence to these guidelines. This compatibility will lead to future interoperability between research infrastructures, and structured metadata is of benefit to individual repositories and the scholarly community at large.
 
+The Guidelines take inspiration from the following initiatives on software description and citation:
 
-
-The Guidelines take inspiration from DataCite, on the side of citation metadata, and aligns with the following initiatives on software description and citation:
-
-* `OpenMinTed SHARE-OMTD <https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html>`_ software guidelines, 
+* `DataCite <https://schema.datacite.org>`_  
+* `OpenMinTed SHARE-OMTD <https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html>`_  
 * `Codemeta initiative <https://github.com/codemeta/codemeta/blob/master/crosswalk.csv>`_ 
 * `DOE CODE initiative <https://github.com/doecode/software-metadata>`_
+
+Mappings from the OpenAIRE guidelines to such initiatives are available `here <http://software-guidelines.readthedocs.io/en/latest/index.html>`_ and open to comments and revision.
 
 Acknowledgements & Contributors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
