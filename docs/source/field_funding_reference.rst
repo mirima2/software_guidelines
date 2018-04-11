@@ -56,7 +56,7 @@ Title of the award
    :linenos:
 
    <fundingReference>
-   		<funderName>name of the number</funderName>
+   		<funderName>name of the funder</funderName>
    		<funderIdentifier funderIdentifierType="ISNI">ISNI ID </funderIdentifier>
    		<awardNumber>award_number</awardNumber>
    		<awardTitle>
