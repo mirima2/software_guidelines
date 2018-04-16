@@ -49,6 +49,10 @@ Acknowledgements & Contributors
 * Lars Holm Nielsen (CERN, Switzerland) 
 * Leo Mack (JISC, UK)
 
+* SoftwareHeritage*
+
+* Roberto Di Cosmo (INRIA, France)
+
 *DOE CODE* (U.S. Department of Energy, Office of Scientific and Technical Information - OSTI.gov)
 
 * Shelby Stooksbury (DOE project coordinator)
