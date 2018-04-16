@@ -27,7 +27,7 @@ The Guidelines take inspiration from the following initiatives on software descr
 * `Codemeta initiative <https://github.com/codemeta/codemeta/blob/master/crosswalk.csv>`_ 
 * `DOE CODE initiative <https://github.com/doecode/software-metadata>`_
 
-Mappings from the OpenAIRE guidelines to such initiatives are available `here <http://software-guidelines.readthedocs.io/en/latest/index.html>`_ and open to comments and revision.
+Mappings from the OpenAIRE guidelines to such initiatives are available `here <https://docs.google.com/spreadsheets/d/1mKs-Pg_JuLcpqEkQqlSCs2gGC7nEEbhxdTbIoGcU6NI/edit?usp=sharing>`_ and open to comments and revision.
 
 Acknowledgements & Contributors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
