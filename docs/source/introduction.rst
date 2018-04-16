@@ -49,7 +49,7 @@ Acknowledgements & Contributors
 * Lars Holm Nielsen (CERN, Switzerland) 
 * Leo Mack (JISC, UK)
 
-* SoftwareHeritage*
+*SoftwareHeritage*
 
 * Roberto Di Cosmo (INRIA, France)
 
