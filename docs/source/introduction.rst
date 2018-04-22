@@ -5,23 +5,28 @@ Introduction
 
 Aim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The OpenAIRE Guidelines for Software Repository Managers 1.0 provide
-orientation for software repository managers to define and implement their local software
-management policies according to the requirements of the OpenAIRE - Open Access
-Infrastructure for Research in Europe. These guidelines are intended to provide indications on how to cite software products in order to make them first citizens of the scholarly communication ecosystem. 
-
-The metadata from software archives should be included in the OpenAIRE information space and exposed when:
-
-	* the software is an open source research software, 
-	* the software is related to a publication or a dataset already in OpenAIRE e.g. a software referred by an open access article,
-	* the software is linked to a project. 
-
-By implementing the OpenAIRE Guidelines, software archive managers are facilitating the creation of enhanced publications and building the stepping-stones for a linked data infrastructure for research.
+The OpenAIRE Guidelines for Software Repository Managers 1.0 provide orientation for software repository managers to define and implement their local software management policies in exposing metadata for software products. These guidelines are intended to provide indications on how to make software products citable in order to make them first citizens of the scholarly communication ecosystem, hence enabling the realization of a linked infrastructure for research.
 
 Exposure and visibility of content from a range of European repositories will be significantly increased when a common and interoperable approach is taken as well as adhering to existing guidelines. OpenAIRE is happy to assist in adherence to these guidelines. This compatibility will lead to future interoperability between research infrastructures, and structured metadata is of benefit to individual repositories and the scholarly community at large.
 
-The Guidelines take inspiration from the following initiatives on software description and citation:
+OpenAIRE
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+According to the content acquisition policies of the OpenAIRE - Open Access Infrastructure for Research in Europe, metadata from software archives can be included in the OpenAIRE information space and exposed when:
+	* the software is an open source research software, 
+	* the software is related to a publication or a dataset already in OpenAIRE e.g. a software referred by an open access article,
+	* the software is linked to a project. 
+	
+Philosophy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The goal of the OpenAIRE guidelines for software is to give immediate visibility of software as a "citable research product” based on the current state of the art in the scholarly communication, while indicating the way towards "good software citation practices". Research software is currently available from the following kinds scholarly communication repositories:
+* Institutional repositories: software descriptions are currently provided as Dublin Core metadata records
+* Data repositories: software descriptions are currently provided as DataCite/DataVerse metadata records
+* Software repositories: most of them are software repositories a-la-GitHub, where metadata is oriented to software re-use, rather than citation; in some cases they are defined as research repositories, hence including metadata for discovery and citation
 
+The guidelines aim at making these repositories readily compliant so as to start exposing software entities to discovery and citation services. This means the guidelines should be endorsed by the community (e.g. include properties that reflect the need of software citation), do not impose high efforts to sources (e.g. mandatory citation metadata not available to sources), while recommending best practices (e.g. placing metadata recommended/optional for citation). Accordingly, the guidelines have been defined with a pragmatic approach, keeping mandatory properties to the minimum, focusing on properties for citation (attribution and access), disregarding discover-for-reuse properties, but keeping in mind that any property can be added in the future to reflect changes that should and hopefully will occur at the repositories side and in the behaviour of scientists who create, share, cite, and re-use research software.
+The guidelines take inspiration from the following initiatives on software description and citation:
+
+* `Force 11 Software Citation Principles <https://www.force11.org/software-citation-principles>`_
 * `DataCite <https://schema.datacite.org>`_  
 * `OpenMinTed SHARE-OMTD <https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html>`_  
 * `Codemeta initiative <https://github.com/codemeta/codemeta/blob/master/crosswalk.csv>`_ 
