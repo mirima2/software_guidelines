@@ -1,5 +1,3 @@
-.. _literature_intro:
-
 Introduction
 ------------
 

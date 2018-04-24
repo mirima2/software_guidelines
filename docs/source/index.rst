@@ -6,7 +6,7 @@ These guidelines describe the application profile for Software Repository manage
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    introduction
    application_profile
