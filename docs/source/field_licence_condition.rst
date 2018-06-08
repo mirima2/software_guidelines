@@ -2,7 +2,7 @@
 
 .. _oas:licenseCondition:
 
-19. Licence Condition (MA)
+19. Licence Condition (R)
 ---------------
 ---------------
 
@@ -20,7 +20,7 @@ Example: Creative Commons Attribution 3.0 Germany License
 
 .. note::
 
-   *Mandatory* property in OpenAIRE instead of optional in DataCite.
+   *Recommended* property in OpenAIRE instead of optional in DataCite.
 
    OpenAIRE uses this property to explicit declare the licence of the resource via :ref:`d:rightsuri`. OpenAIRE recommends including license information if available.
 
