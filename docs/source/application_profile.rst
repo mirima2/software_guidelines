@@ -37,4 +37,4 @@ OpenAIRE-Field                           Metadata Element
 Examples of valid metadata records
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-http://data.d4science.org/workspace-explorer-app?folderId=WDVNdi82TFZnb2RoR2gyQlFiSitEVjVUcDNoeTIrWVg2VVVxVGllQkhjRVh0OFRtdkhXOTZnWTJXVjRpa3U4dQ
+`Example <http://data.d4science.org/workspace-explorer-app?folderId=WDVNdi82TFZnb2RoR2gyQlFiSitEVjVUcDNoeTIrWVg2VVVxVGllQkhjRVh0OFRtdkhXOTZnWTJXVjRpa3U4dQ>`
