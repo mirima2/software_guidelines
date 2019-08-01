@@ -3,7 +3,7 @@ Application Profile Overview
 
 This documentation uses the following namespace abbreviation:
 
-* ``datacite``: http://datacite.org/schema/kernel-4
+* ``datacite``: https://schema.datacite.org/meta/kernel-4.1/
 
 
 ======================================== ============================= 
